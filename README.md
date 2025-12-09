@@ -1,10 +1,10 @@
 # cozystack-talk-cozysummit-2025
 
-## Lightning Talk
+# Lightning Talk
 
 **From AWS EC2 to Cozystack — A Beginner’s Roadmap to Cloud Independence**
 
-## Event
+# Event
 
 **CozySummit Virtual 2025**
 
@@ -12,11 +12,11 @@ Hosted by the **CNCF – Cloud Native Computing Foundation**
 
 Date: **December 3rd, 2025**
 
-## Speaker
+# Speaker
 
 **Kirti Goyal** 
 
-## Talk Description
+# Talk Description
 
 This talk introduces **Cozystack** as a Kubernetes-native, open-source platform that enables building a self-hosted cloud on bare metal or existing servers.
 A beginner-friendly explanation of:
@@ -29,12 +29,12 @@ A beginner-friendly explanation of:
   
 * Why Cozystack matters for startups, students, and enterprise environments
 
-## Slides
+# Slides
 
 🔗 Presentation Slides:
 https://docs.google.com/presentation/d/1OnTH-5Is02VNK8kacOg3T-s43eoC1YPPav3UUELXLvs/
 
-## Topics Covered
+# Topics Covered
 
 * Why cloud independence matters
 
@@ -48,7 +48,7 @@ https://docs.google.com/presentation/d/1OnTH-5Is02VNK8kacOg3T-s43eoC1YPPav3UUELX
 
 * Who should use Cozystack
 
-## Acknowledgements
+# Acknowledgements
 Special thanks to **Andrei Kvapil**, **Timur Tukaev**, and the **Ænix / Cozystack community**  
 for their support, technical guidance, and feedback during preparation.
 
