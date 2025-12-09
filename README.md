@@ -6,11 +6,13 @@
 
 # Event
 
-**CozySummit Virtual 2025**
+[**CozySummit Virtual 2025**](https://community.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-cozysummit-virtual-2025/
+)
 
 Hosted by the **CNCF – Cloud Native Computing Foundation**
 
 Date: **December 3rd, 2025**
+
 
 # Speaker
 
