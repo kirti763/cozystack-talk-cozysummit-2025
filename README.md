@@ -36,6 +36,9 @@ A beginner-friendly explanation of:
 🔗 Presentation Slides:
 https://docs.google.com/presentation/d/1OnTH-5Is02VNK8kacOg3T-s43eoC1YPPav3UUELXLvs/
 
+# Video link
+🔗 https://youtu.be/mMDZzwHI2mI?si=aZNwgNfaGmsgvU_A
+
 # Topics Covered
 
 * Why cloud independence matters
